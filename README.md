@@ -20,6 +20,8 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 ## Overview
 
+This code works for the designated window sizes of 375px and 1440px, but it's not fully responsive.
+
 ### The challenge
 
 Users should be able to:
