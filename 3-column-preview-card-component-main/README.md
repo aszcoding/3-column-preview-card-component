@@ -61,5 +61,5 @@ https://www.w3schools.com/css/css3_buttons.asp
 
 ## Author
 
-- Frontend Mentor - [@yaszcoding](https://www.frontendmentor.io/profile/aszcoding)
+- Frontend Mentor - [@aszcoding](https://www.frontendmentor.io/profile/aszcoding)
 - LinkedIn - [Ashley Serrano-Ziel](www.linkedin.com/in/ashley-serrano-ziel-375bb0b1)
