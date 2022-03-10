@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/aszcoding/fmproject1)
+- Solution URL: (https://aszcoding.github.io/fmproject1/)
 
 ## My process
 I started coding this project in the desktop view first, which I completely forgot was backwards until I finished the project and started filling out this README file. I had some initial issues with getting the flexbox and the buttons to be responsive, but everything else was pretty straight forward. This was my first frontend mentor challenge, and I really enjoyed it! Looking forward to the next one! 
