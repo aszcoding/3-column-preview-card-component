@@ -49,7 +49,6 @@ h2{
 .flex-container{
 	display: flex;
 	color:#ffffff;
-	height: 100vh;
 	width: 65%;
 	justify-content: center;
 	align-items: center;
