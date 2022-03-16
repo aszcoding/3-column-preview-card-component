@@ -35,6 +35,8 @@ img {
 
 body{
 	height: 100vh;
+    padding-top: 11rem;
+    padding-bottom: 11rem;
 	background-color: hsl(0, 0%, 95%);
 }
 
@@ -79,14 +81,14 @@ h2{
 }
 
 div{
-	height: 70%;
+	height: 100%;
 	font-family: 'Lexend Deca', sans-serif;
 	font-weight: 400;
 }
 
 div > p{
 	font-size: 1rem;
-
+    padding-bottom: 6rem;
 	color:hsla(0, 0%, 100%, 0.75);
 }
 
@@ -154,7 +156,7 @@ footer{
 
 	div > p{
 		font-size: 1rem;
-		padding-bottom: 0;
+		padding-bottom: 2rem;
 	}
 	
 
@@ -182,8 +184,7 @@ footer{
 
 	button{
 		position: static;
-		padding: 1rem;
-		width: 65%;
+		width: 60%;
 		font-size: 1rem;
 	}
 
